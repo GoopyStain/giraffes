@@ -1,0 +1,53 @@
+* {
+    text-align: center;
+}
+
+html {
+    background: rgb(102, 65, 17);
+}
+
+h1{
+    background-color: tan;
+    font-family: "Bonheur Royale";
+}
+
+.angolan {
+    height: 400px;
+    width: 600px;
+}
+
+.nubian {
+    height: 400px;
+}
+
+.west-african {
+    height: 400px;
+    
+}
+
+.south-african {
+    height: 400px;
+}
+
+.kordofan {
+    height: 400px;
+    width: 600px;
+}
+
+.luangwa {
+    height: 400px;
+    width: 300px;
+}
+
+.masai {
+    height: 400px;
+}
+
+.reticulated {
+    height: 400px;
+}
+
+p {
+    font-family: oswald;
+    font-weight: 700;
+}
